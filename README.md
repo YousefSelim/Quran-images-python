@@ -1,6 +1,6 @@
 # بسم الله الرحمن الرحيم
 # Quran-images-python
-Python generated Quran page using king fahd complex fonts ,and marker positions in json file
+Python generated Quran pages using king fahd complex fonts ,and marker positions in json file
 # installation and requirements
 Built using python 3.6<br>
 needs PIL (python image library):<br>
